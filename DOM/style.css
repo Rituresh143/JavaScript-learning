@@ -1,0 +1,20 @@
+.spectacular{
+    color: red;
+    font-size: 60px;
+
+    transform: translate(200px) rotateX(250deg);
+
+}
+
+
+.main-title{
+    transition: all 0.5 ease;
+}
+
+.wow{
+    font-size: 1000px;
+}
+
+.fade{
+    opacity: 0;
+}
